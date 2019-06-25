@@ -5,6 +5,7 @@ gem 'sinatra'
 gem 'rake'
 gem 'thin'
 gem 'shotgun'
+gem 'solargraph'
 gem 'require_all'
 
 group :test, :development do
